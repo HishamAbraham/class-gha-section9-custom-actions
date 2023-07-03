@@ -13,7 +13,7 @@ inputs:
     required: true
 outputs:
   website-url:
-  description: 'The URL of the website'
+    escription: 'The URL of the website'
 runs:
   using: 'node16'
   main: 'main.js'
